@@ -1,1 +1,1 @@
-# GoEuroTest
+# GoEuroJavaTest
