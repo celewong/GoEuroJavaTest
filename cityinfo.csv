@@ -1,0 +1,9 @@
+country,distance,fullName,inEurope,type,countryId,alternativeNames,names,geo_position,locationId,countryCode,iata_airport_code,name,_id,key,coreCountry
+Germany,null,"Berlin, Germany",true,location,56,{},"{cs:Berlín,ru:Берлин,fi:Berliini,pt:Berlim,is:Berlín,it:Berlino,es:Berlín,zh:柏林,ca:Berlín,nl:Berlijn}","{latitude:52.52437,longitude:13.41053}",8384,DE,null,Berlin,376217,null,true
+Norway,null,"Bergen, Norway",true,location,161,{},"{ru:Берген,is:Björgvin,zh:卑爾根}","{latitude:60.39292907714844,longitude:5.324578762054443}",25708,NO,null,Bergen,393496,null,false
+Switzerland,null,"Berne, Switzerland",true,location,42,{},"{de:Bern,ru:Берн,pt:Berna,it:Berna,pl:Berno,es:Berna,zh:伯恩,ca:Berna}","{latitude:46.94809,longitude:7.44744}",5194,CH,null,Berne,373033,null,true
+Ukraine,null,"Berdyans'k, Ukraine",true,location,222,{},{"ru":"Бердянск"},"{latitude:46.7663,longitude:36.79882}",161793,UA,null,Berdyans'k,460643,null,false
+Germany,null,"Berlin Tegel (TXL), Germany",true,airport,56,{},"{it:Berlino Tegel,es:Berlín-Tegel,ca:Berlín-Tegel,nl:Berlijn Tegel}","{latitude:52.5548,longitude:13.28903}",null,DE,TXL,Berlin Tegel,314826,null,true
+Germany,null,"Berlin Schönefeld (SXF), Germany",true,airport,56,{},"{it:Berlino Schönefeld,es:Berlín-Schönefeld,ca:Berlín-Schönefeld,nl:Berlijn Schönefeld}","{latitude:52.3887261,longitude:13.5180874}",null,DE,SXF,Berlin Schönefeld,314827,null,true
+Germany,null,"Berlin Hbf, Germany",true,station,56,{},{},"{latitude:52.525589,longitude:13.369548}",null,DE,null,Berlin Hbf,334196,null,true
+Germany,null,"Berlin Ostbahnhof, Germany",true,station,56,{},{},"{latitude:52.510972,longitude:13.434567}",null,DE,null,Berlin Ostbahnhof,333977,null,true
