@@ -6,11 +6,11 @@ https://github.com/goeuro/dev-test
 The program makes use of the API of GoEuro to search the information of a CITY and return a csv file.
 http://api.goeuro.com/api/v2/position/suggest/en/CITY_NAME
 
-The program is built by using IDE Eclipse
+The program is built by using IDE Eclipse.
 The jar file is in folder /jar
 
-#Execution method
-java -jar GoEuroJavaTest CITYNAME [csvfilename]
+#Execution
+java -jar GoEuroJavaTest.jar CITYNAME [csvfilename]
 
 #Parameter
 CITYNAME
